@@ -10,7 +10,6 @@
 <br />
 
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻  I’m currently studying at the online school "Swiftbook" with a degree in "iOS Developer"
 - 💬  Ask me about anything, I am happy to help
 - ⚡  Available for Freelance projects/internship opportunities
 - 📫  How to reach me: rfhbv727@gmail.com
