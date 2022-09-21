@@ -34,7 +34,5 @@
 <code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/sublime_text.svg"></code>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=YanSakhnevich&color=blue&style=plastic-square) -->
 
