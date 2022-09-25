@@ -24,12 +24,6 @@
 
 <br />
 
-**🛠 Languages and Tools:** 
-<br />
-<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/xcode_icon.png"></code>
-<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/swift_icon.png"></code>
-<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/sublime_text.svg"></code>
-
 
 
 
