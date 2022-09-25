@@ -31,5 +31,5 @@
 <code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/sublime_text.svg"></code>
 
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=YanSakhnevich&color=blue&style=plastic-square) -->
+
 
