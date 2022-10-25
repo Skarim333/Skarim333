@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm Karim.
 
 
-<a href="https://t.me/ski_karim">
+<a href="https://t.me/karim623">
     <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/telegram_icon.png"></a>
   
 <br />
