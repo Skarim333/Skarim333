@@ -1,8 +1,6 @@
 ### Hey 👋🏽, I'm Karim.
 
 
-<a href="https://www.linkedin.com/mwlite/in/karimsadykov321">
-  <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
 <a href="https://t.me/ski_karim">
     <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/telegram_icon.png"></a>
   
@@ -19,6 +17,7 @@
 <br />
 
 **📜 My projects:**
+- [ShopTest](https://github.com/Skarim333/ShopTest)
 -  [HeroStatsMVP](https://github.com/Skarim333/HeroStatsMVP)
 -  [ITunes Json](https://github.com/Skarim333/ITunes-Json)
 
